@@ -53,7 +53,8 @@ This repository contains my lab work for the **Machine Learning Lab**. It includ
 ##  How to Run
 
 1. Clone this repository:
-   ```bash git clone https://github.com/b200013/Mechine_Leaning.git
+   ```bash
+   git clone https://github.com/b200013/Mechine_Leaning.git
 
 
 ## License
